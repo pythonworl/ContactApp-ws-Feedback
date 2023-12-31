@@ -25,7 +25,8 @@ Feedback Feature
     "message": "I would love to see a new feature that allows..."
 }
 
-![Screenshot (6)](https://github.com/pythonworl/ContactApp-ws-Feedback/assets/115520031/08a543d4-7a0f-41d6-b401-b6f7a09bf715)
+
+![collage](https://github.com/pythonworl/ContactApp-ws-Feedback/assets/115520031/9b787034-7d39-4136-b213-aeb0e7841069)
 
 
 
