@@ -26,8 +26,6 @@ Feedback Feature
 }
 
 
-![picture1](https://github.com/pythonworl/ContactApp-ws-Feedback/assets/115520031/7b177825-a4b1-46aa-932d-469c41bdca1a)
-
 
 
 
